@@ -2,4 +2,4 @@
 Collection of deep-learning
 
 ## image classification
-dog-breed-identification
+dog-breed-identification (https://www.kaggle.com/c/dog-breed-identification)
