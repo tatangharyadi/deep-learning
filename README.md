@@ -1,4 +1,4 @@
-# deep_learning
+# deep-learning
 Collection of deep-learning using Tensorflow
 
 ## image classification
